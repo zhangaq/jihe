@@ -5,6 +5,7 @@ import java.util.Random;
 
 public class daFen {
     public static void main(String[] args) {
+		//gaidong
         //创建集合对象
         ArrayList<Integer> list = new ArrayList<>();
         //创建随机数对象
